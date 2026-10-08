@@ -18,6 +18,8 @@ Books are found through your reading history, the same source KOReader's own "Ex
 | **Vagary** | One random highlight, shown large. Nothing repeats until every highlight in the current draw has been shown; this survives restarts and starts over when the draw's filter changes. Long quotes shrink to fit, then offer "Continue reading". To draw another, tap the quote, tap Another, swipe left or press page-forward. Page-back goes to the previous one. |
 | **Tags** | Create tags and sort by most used, A–Z or recent. Tap a tag, or *Untagged*, to see its highlights. Long-press a tag or use its menu button to rename, merge or delete it. |
 
+<img width="1318" height="515" alt="Screenshot 2026-10-09 at 00 17 37" src="https://github.com/user-attachments/assets/d39ab2e8-dc7a-4d00-95ba-48020d96e1d8" />
+
 The detail, filter, tag picker and export screens open on top of the tab you are on. Close them with ✕, ‹, Back or a swipe down.
 
 **Export** is in the Library menu and in the selection bar. It writes Markdown, Obsidian (one note per book), plain text, CSV (UTF-8 with a BOM, so Excel shows Chinese correctly) or JSON. Files go to `<KOReader folder>/data/HLexport/` by default; on Android that is `/storage/emulated/0/koreader/data/HLexport/`. If a file with today's name already exists, you choose *Keep both* (adds `-2`) or *Replace*.
